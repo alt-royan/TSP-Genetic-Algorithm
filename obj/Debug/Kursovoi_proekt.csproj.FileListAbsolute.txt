@@ -1,0 +1,12 @@
+C:\Users\grig0\Source\Repos\TSP-Genetic-Algorithm\bin\Debug\img.png
+C:\Users\grig0\Source\Repos\TSP-Genetic-Algorithm\bin\Debug\index.html
+C:\Users\grig0\Source\Repos\TSP-Genetic-Algorithm\bin\Debug\Kursovoi_proekt.exe.config
+C:\Users\grig0\Source\Repos\TSP-Genetic-Algorithm\bin\Debug\Kursovoi_proekt.exe
+C:\Users\grig0\Source\Repos\TSP-Genetic-Algorithm\bin\Debug\Kursovoi_proekt.pdb
+C:\Users\grig0\Source\Repos\TSP-Genetic-Algorithm\obj\Debug\Kursovoi_proekt.About.resources
+C:\Users\grig0\Source\Repos\TSP-Genetic-Algorithm\obj\Debug\Kursovoi_proekt.Form1.resources
+C:\Users\grig0\Source\Repos\TSP-Genetic-Algorithm\obj\Debug\Kursovoi_proekt.Properties.Resources.resources
+C:\Users\grig0\Source\Repos\TSP-Genetic-Algorithm\obj\Debug\Kursovoi_proekt.csproj.GenerateResource.cache
+C:\Users\grig0\Source\Repos\TSP-Genetic-Algorithm\obj\Debug\Kursovoi_proekt.csproj.CoreCompileInputs.cache
+C:\Users\grig0\Source\Repos\TSP-Genetic-Algorithm\obj\Debug\Kursovoi_proekt.exe
+C:\Users\grig0\Source\Repos\TSP-Genetic-Algorithm\obj\Debug\Kursovoi_proekt.pdb
